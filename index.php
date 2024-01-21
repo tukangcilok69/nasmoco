@@ -1,1 +1,4 @@
-testing
+<?php 
+echo "dari php";
+
+?>
